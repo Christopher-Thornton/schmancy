@@ -1,4 +1,4 @@
-# Schmancy
+# Shmancy
 
 Automatic shm-reduplication
 
