@@ -11,7 +11,7 @@ print(reduplicate('fancy', repeat=True))
 # fancy-shmancy
 
 # reduplication on an entire sentence
-# text = "The quick brown fox jumps over the lazy dog."
+text = "The quick brown fox jumps over the lazy dog."
 print(reduplicate(text))
 # The shmuick shmown shmox shmumps shmover the shmazy shmog.
 print(reduplicate(text, repeat=True))
